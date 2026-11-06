@@ -1,0 +1,32 @@
+FINANÇAS DA MOTO - APLICATIVO (PWA)
+
+1) PUBLICAR (gratuito, uma vez)
+   - Crie uma conta em github.com.
+   - Clique em "New repository", nome: financas-moto, marque "Public" e crie.
+   - Clique em "uploading an existing file" e envie os 9 arquivos desta pasta
+     (todos soltos, sem subpasta): index.html, sw.js, manifest.webmanifest,
+     icon-192.png, icon-512.png, maskable-512.png, apple-touch-icon.png,
+     favicon-64.png e LEIA-ME.txt. Clique em "Commit changes".
+   - Vá em Settings > Pages > Branch: main / (root) > Save.
+   - Em 1 a 2 minutos o endereço fica pronto: https://SEU-USUARIO.github.io/financas-moto/
+   O repositório guarda só o código. Seus dados nunca vão para o GitHub.
+
+2) INSTALAR
+   - Android (Chrome): abra o endereço > botão "Instalar app" no topo ou menu ⋮ > Instalar app.
+   - iPhone (Safari): abra o endereço > Compartilhar > Adicionar à Tela de Início.
+     Use sempre pelo ícone (no Safari comum o iOS pode apagar os dados).
+
+3) TRAZER OS DADOS DO ARTEFATO
+   - No artefato do Claude: Dados e backup > Exportar backup (.json).
+   - No app: Dados e backup > Importar backup (.json).
+
+   Confira em: Dados e backup > Verificação da instalação (tudo deve estar OK).
+
+4) ATUALIZAR O APP
+   - Substitua os arquivos no repositório pelos da nova versão (mesmo endereço).
+   - O app mostra "Nova versão disponível" > Atualizar agora. Os dados são mantidos.
+   - Nunca troque o endereço: dados ficam presos ao endereço em que foram salvos.
+
+5) ROTINA
+   - Exporte o backup pelo menos 1 vez por mês (o app avisa) e guarde no Drive/iCloud/e-mail.
+   - Para avisos com o app fechado: Alertas > Exportar para a agenda (.ics).
